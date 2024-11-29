@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ai-droid</string>
+    <string name="action_apply">Apply</string>
+    <string name="action_ignore">Ignore</string>
+    <string name="action_clear">Clear</string>
+    <string name="baking_title">Ai-droid</string>
+    <string name="label_code">Code</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+</resources>
